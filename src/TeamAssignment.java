@@ -7,6 +7,7 @@ public class TeamAssignment {
     // method to print out all values in a List<String> void printValues(List<String> list) {} Heval
 
 
+
     // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {} Heval
 
 
@@ -24,11 +25,14 @@ public class TeamAssignment {
 
 
     // method to print hello world: void helloWorld() {} Hardi
-public void hellowWorld(){
-    System.out.println("Hellow World");
-}
+    public void hellowWorld(){
+        System.out.println("Hellow World");
+    }
+
+    public static void main(String[] args) {
+
+        //You guys can test your codes in this main method. You guys dont need to creat new main method again.
 
 
-
-
+    }
 }
