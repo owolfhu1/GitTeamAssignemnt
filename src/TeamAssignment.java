@@ -24,6 +24,10 @@ public class TeamAssignment {
 
     // method to print hello world: void helloWorld() {}
 
+    public void helloworld(){
+        System.out.println("hello world!!");
+    }
+
 
 
 }
