@@ -1,3 +1,5 @@
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 import java.util.*;
 
 public class TeamAssignment {
@@ -22,6 +24,10 @@ public class TeamAssignment {
 
 
     // method to print hello world: void helloWorld() {} Hardi
+public void hellowWorld(){
+    System.out.println("Hellow World");
+}
+
 
 
 
