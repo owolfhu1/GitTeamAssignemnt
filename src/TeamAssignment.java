@@ -7,7 +7,11 @@ public class TeamAssignment {
 
 
     // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
-
+    List<Integer>: int sum(List<Integer> list) {
+        List<Integer>num=new List<Integer>();
+                num.add(1);
+        System.out.println(num);
+    }
 
 
     // method to find the index of a value in a String[]: int getIndex(String[] arr, String value) {}
