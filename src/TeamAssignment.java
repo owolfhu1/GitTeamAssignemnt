@@ -22,7 +22,8 @@ public class TeamAssignment {
 
 
     // method to print hello world: void helloWorld() {} Hardi
-
-
+    public void helloWorld() {
+        System.out.println("HELLo World.");
+    }
 
 }
