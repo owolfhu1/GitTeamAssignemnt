@@ -14,7 +14,14 @@ public class TeamAssignment {
 
 
     // method to multiply two int together: int multiply(int a, int b) {} İbo
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 6;
+        int multiply;
+        multiply = a * b;
+        System.out.println("a + b = " + multiply);
 
+    }
 
 
     // method to tell if an int is even: boolean isEven(int number) {} Serap
