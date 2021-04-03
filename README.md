@@ -2,12 +2,16 @@
 
 ### Setup:
 - break into teams (use your established teams)
-- pick a team leader
+- pick a team leader 
++ Cennet 
 - team lead will fork this repo
     - fork will create a new remote repo for your team work on without changing this repo
+    + Already fork this 
 - team lead gives access to repo
++ gave them access
 - team clones repo
     - clone will get a copy of the repo on your computer
+    - + additionally shared the copy of the code
 
 ### Problem:
 - head over to `src/TeamAssignment.java`
