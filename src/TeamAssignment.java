@@ -4,7 +4,7 @@ import java.util.*;
 public class TeamAssignment {
 
     // method to print out all values in a List<String> void printValues(List<String> list) {} Heval
-    static List<String> printValues(List<String> list) {
+    static List<String> printValues (List<String> list) {
         List<String> printInputs = new ArrayList<>();
 
         for (String i : list) {
