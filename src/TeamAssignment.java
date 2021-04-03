@@ -14,8 +14,21 @@ public class TeamAssignment {
 
 
 
-    // method to multiply two int together: int multiply(int a, int b) {}
 
+   }
+
+    // method to multiply two int together: int multiply(int a, int b) {}
+{}
+public static boolean main{
+        int a=20
+        boolean iseven=;
+        if(a%2==0){
+        return  iseven=true
+        }
+        else {
+        return is even=false
+        }
+        }
 
 
     // method to tell if an int is even: boolean isEven(int number) {}
