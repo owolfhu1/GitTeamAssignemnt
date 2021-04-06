@@ -4,6 +4,15 @@ public class TeamAssignment {
 
     // method to print out all values in a List<String> void printValues(List<String> list) {}
 
+    public static void main(String[] args) {
+
+        List<String> list = new ArrayList();
+        list.add("hasan");
+        list.add("john");
+        list.add("james");
+        System.out.println(list);
+
+    }
 
 
     // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
@@ -24,9 +33,6 @@ public class TeamAssignment {
 
     // method to print hello world: void helloWorld() {}
 
-    public void helloworld(){
-        System.out.println("hello world!!");
-    }
 
 
 
