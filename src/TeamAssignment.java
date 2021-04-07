@@ -2,8 +2,16 @@ import java.util.*;
 
 public class TeamAssignment {
 
-    // method to print out all values in a List<String> void printValues(List<String> list) {}
 
+    // method to print out all values in a List<String> void printValues(List<String> list) {}
+    List<String> void printValues(List<String> list) {
+        List<String>HarryRunAway = new List<String>() {
+            @Override
+            public int size() {
+                return 0;
+
+        }
+    }
 
 
     // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
