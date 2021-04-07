@@ -7,6 +7,13 @@ public class TeamAssignment {
 
 
     // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
+    public static int sum(List<Integer> list) {
+        int sum = 0;
+        for (int i: list) {
+            sum += i;
+        }
+        return sum;
+    }
 
 
 
