@@ -1,22 +1,26 @@
-import java.util.*;
+
 
 public class TeamAssignment {
+    public static void main(String[] args) {
 
 
-    // method to print out all values in a List<String> void printValues(List<String> list) {}
-    List<String> void printValues(List<String> list) {
-        List<String>HarryRunAway = new List<String>() {
-            @Override
-            public int size() {
-                return 0;
 
-        }
+    // method to print out all values in a List<String> void printValues(List<String> list){}
+
+
+
+
+        // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
+
+    List<Integer> myInts = new ArrayList(5,6,9,3,8);
+
+    int total = 0;
+        for (Integer i : myInts) {
+        total += i;
     }
-
-
-    // method to add all the numbers in a List<Integer>: int sum(List<Integer> list) {}
-
-
+        System.out.println(total);
+    }
+}
 
     // method to find the index of a value in a String[]: int getIndex(String[] arr, String value) {}
 
@@ -34,4 +38,3 @@ public class TeamAssignment {
 
 
 
-}
